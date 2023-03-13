@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'skill-group';
+  title = 'Group SKill Master -> @Get Method';
 }
